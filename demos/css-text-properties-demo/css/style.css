@@ -1,0 +1,21 @@
+h1 {
+    color: deeppink;
+    text-align: center;
+}
+span {
+     font-style: italic;
+}
+#sp1 {
+    font-weight: bolder;
+}
+h3 {
+    font-size: larger ;
+    text-align: center;
+}
+a {
+    text-decoration: none;
+    color: goldenrod;
+}
+p {
+    background-color: deepskyblue;
+}

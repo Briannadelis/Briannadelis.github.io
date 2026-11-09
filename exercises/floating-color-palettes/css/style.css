@@ -1,0 +1,37 @@
+.color-palettes {
+    padding: 24px;
+    margin: 24px;
+    text-align: center;
+    box-shadow: 6px 6px 12px #989898;
+}
+.color {
+    margin: 0px;
+    padding: 24px;
+}
+#c1a {
+    background-color: #845ec2;
+}
+#c1b {
+    background-color: #bb3bb0;
+}
+#c1c {
+    background-color: #d73222;
+}
+#c2a {
+    background-color: #f3c5ff;
+}
+#c2b {
+    background-color: #deeaef;
+}
+#c2c {
+    background-color: #3c859e;
+}
+#c3a {
+    background-color: #ee56b4;
+}
+#c3b {
+    background-color: #fbf4d7;
+}
+#c3c {
+    background-color: #4d3a43;
+}

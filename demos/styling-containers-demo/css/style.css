@@ -1,0 +1,14 @@
+
+.card {
+    padding: 24px;
+    background-color: fuchsia;
+    margin: 24px;
+}
+#c1 {
+    background-color: darkorange;
+    box-shadow: 4px -2px 10px #888;
+
+}
+#c2 {
+    background-color: dodgerblue;
+}

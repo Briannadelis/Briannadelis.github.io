@@ -4,3 +4,14 @@
     background-color: fuchsia;
     margin: 24px;
 }
+.btn {
+    background-color: navy;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+}
+.alt {
+    background-color: transparent;
+    color: navy;
+    font-weight: bold;
+}

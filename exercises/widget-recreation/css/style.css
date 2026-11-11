@@ -1,0 +1,33 @@
+#weather {
+    background-color: palevioletred;
+    display: inline-block;
+    border-radius: 45px;
+    color: white;
+    padding: 10px;
+    margin: 50px;
+}
+#sunny {
+    width: 80px;
+}
+#p1 {
+    display: inline-block;
+}
+#p2 {
+    display: inline-block;
+}
+#p3 {
+    display: inline-block;
+}
+#sunny,
+#p1,
+#p2,
+#p3 {
+    vertical-align: middle;
+}
+#p2 {
+    margin-left: 20px;
+    margin-right: 12px;
+}
+#p3 {
+    font-size: medium;
+}

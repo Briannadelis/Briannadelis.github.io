@@ -7,9 +7,16 @@ body {
     font-family: "Redaction 70", serif;
     font-size: larger;
 }
+h1 {
+    font-family: "Press Start 2P", system-ui;
+    color: #fefffe;
+    text-align: center;
+    font-size: larger;
+}
 h2 {
     margin-top: 0px;
     font-family: "Press Start 2P", system-ui;
+    font-size: large;
 }
 h3 {
     font-family: "Redaction 50", serif;
@@ -59,8 +66,4 @@ img {
 header {
     background-color: #27a10f ; 
     padding: 10px 0px;
-    font-family: "Press Start 2P", system-ui ; 
-    color: #fff;
-    text-align: center;
-    font-size: medium;
 }

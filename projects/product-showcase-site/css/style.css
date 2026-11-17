@@ -56,3 +56,11 @@ img {
     margin-right: auto;
     width: 50%;
 }
+header {
+    background-color:#27a10f;
+    padding: 10px 0px;
+    font-family:"Press Start 2P", system-ui;
+    color: #fff;
+    text-align: center;
+    font-size: medium;
+}

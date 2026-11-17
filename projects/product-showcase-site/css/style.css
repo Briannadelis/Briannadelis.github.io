@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&family=Redaction+50:ital,wght@0,400;0,700;1,400&family=Redaction+70:ital,wght@0,400;0,700;1,400&display=swap');
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: "Redaction 70", serif;
+    font-size: larger;
+}
+h2 {
+    margin-top: 0px;
+    font-family: "Press Start 2P", system-ui;
+}
+h3 {
+    font-family: "Redaction 50", serif;
+}
+.single-column {
+    width: 80%;
+    max-width: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.bg {
+    background-color: #111;
+    color: #eee;
+    padding: 25px 0px;
+}
+.btn {
+    border: 1px solid #063a0b;
+    border-radius: 10px;
+    padding: 12px 24px;
+    text-decoration: none;
+    display: inline-block; 
+    width: fit-content; 
+    margin: 0 auto; 
+    color: #fff;
+    transition: 
+        background-color 0.5s,
+        border-color 0.5s,
+        color 0.5s;
+}
+
+a.btn.alt {
+    background-color: #27a10f;
+    border-color: #27a10f;
+    color: #fefffe;
+}
+
+a.btn.alt:hover {
+    background-color: #042704;
+    color: #fcfcfc;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}

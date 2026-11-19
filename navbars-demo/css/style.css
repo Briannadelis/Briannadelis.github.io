@@ -1,0 +1,27 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0px;
+    font-family: sans-serif;
+}
+
+.sc {
+    width: 80vw;
+    max-width: 500px;
+    margin: 0px auto;
+    font-size: 24px;
+    height: 200vh;
+}
+nav {
+    display: flex;
+    gap: 24px;
+    align-items: center;
+    padding: 10px 10vw;
+}
+#mainnav {
+    background-color: #111;
+}
+.logo img {
+    width: 100px;
+}
